@@ -1,0 +1,39 @@
+!SESSION 2016-12-07 16:35:35.601 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Framework arguments:  -login -application com.aptana.commandline.launcher.LauncherApplication C:\Users\j\Documents\HBuilderProjects\music8\package.json
+Command-line arguments:  -os win32 -ws win32 -arch x86 -login -data   -application com.aptana.commandline.launcher.LauncherApplication C:\Users\j\Documents\HBuilderProjects\music8\package.json
+
+!ENTRY com.aptana.rcp 4 0 2016-12-07 16:35:37.663
+!MESSAGE (Build null) [ERROR]  getRawLocationURI: file:/C:/Users/j/Documents/HBuilderProjects/music8
+
+!ENTRY com.aptana.rcp 4 0 2016-12-07 16:35:37.695
+!MESSAGE (Build null) [ERROR]  checkInstanceLocation
+
+!ENTRY com.pandora.core.utils 4 0 2016-12-07 16:35:37.770
+!MESSAGE (Build null) [ERROR]  remote-debugging-port == 9222
+
+!ENTRY com.aptana.rcp 4 0 2016-12-07 16:35:37.793
+!MESSAGE (Build null) [ERROR]  init CEF
+
+!ENTRY org.eclipse.ui 2 0 2016-12-07 16:35:38.065
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-12-07 16:35:38.065
+!MESSAGE Could not parse key sequence: plug-in='com.pandora.ui', id='org.eclipse.ui.edit.text.contentAssist.proposals', keySequence='Ctrl+Sapce'
+
+!ENTRY org.eclipse.ui 4 4 2016-12-07 16:35:39.260
+!MESSAGE Unable to create menu item "org.eclipse.ui.cheatsheets.actions.CheatSheetHelpMenuAction", command "org.eclipse.ui.cheatsheets.actions.CheatSheetHelpMenuAction" not defined
+
+!ENTRY com.aptana.scripting 4 0 2016-12-07 16:35:43.058
+!MESSAGE (Build null) [ERROR]  An error occurred while parsing scope 'Build–in constant' : Cannot recover from the syntax error
+
+!ENTRY com.aptana.scripting 4 0 2016-12-07 16:35:43.064
+!MESSAGE (Build null) [ERROR]  An error occurred while parsing scope 'library class/type' : Cannot recover from the syntax error
+
+!ENTRY com.aptana.rcp 4 0 2016-12-07 16:35:46.533
+!MESSAGE (Build null) [ERROR]  ---------------------start check----------------------
+
+!ENTRY com.aptana.rcp 4 0 2016-12-07 16:35:46.535
+!MESSAGE check mode
