@@ -1,0 +1,19 @@
+{
+  "name": "music8",
+  "version": "1.0.0",
+  "description": "music8 一款音乐app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majia1988/music8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majia1988/music8/issues"
+  },
+  "homepage": "https://github.com/majia1988/music8#readme"
+}
