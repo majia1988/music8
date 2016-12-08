@@ -1,0 +1,84 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+}
+.nav{
+	display: flex;
+	width: 98%;
+	margin: 15px auto;
+	
+}
+.nav .btn1{
+	width: 40%;
+	height: 43px;
+	border-radius: 10px;
+	font-size: 25px;
+	background-image: url(../imgs/12.jpg);
+	color: #887a68;
+	
+}
+.nav .btn1 img{
+	width: 4%;
+	height: 5%;
+	position: absolute;
+	right: 6%;
+	
+	/*padding-top: 3px;*/
+}
+.nav .btn2 img{
+	width: 4%;
+	height: 5%;
+	position: absolute;
+	right: 56%;
+}
+.nav .btn2{
+	width: 40%;
+	height: 43px;
+	border-radius: 10px;
+	background-image: url(../imgs/12.jpg);
+	font-size: 25px;
+	color: white;
+}
+.section-e {
+	position: absolute;
+	top: 60px;
+	left: 10%;
+  width: 80%;
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+}
+.section-e .hang {
+  height: 46px;
+  /*line-height: 46px;*/
+  border-bottom: 1px solid gainsboro;
+  top:60px;
+}
+.section-e .hang .list {
+  margin-top: 15px;
+  display: flex;
+}
+.section-e .hang .list .content-e {
+	margin-left: 10px;
+	font-size: 18px;
+	color: #666464;
+  flex: 1;
+}
+.section-e .hang .list .right {
+  margin-right:-17px;
+  line-height: 20px;
+  
+}
+.section-e .hang .list .right-e {
+  padding-right: 10px;
+  color: #c8c7c7;
+ 	position: relative;
+}
+.met{
+	width: 70px;
+	height: 7px;
+}
+a{
+	position: relative;
+	top: 25px;
+	right: 40px;
+}

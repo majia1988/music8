@@ -1,0 +1,70 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+}
+.nav{
+	display: flex;
+	width: 98%;
+	margin: 15px auto;
+	position: relative;
+}
+.nav .btn1{
+	width: 40%;
+	height: 43px;
+	border-radius: 10px;
+	font-size: 25px;
+	background-image: url(../imgs/12.jpg);
+	color: white;
+	
+}
+.nav .btn1 img{
+	width: 4%;
+	height: 75%;
+	position: absolute;
+	right: 56%;
+	/*padding-top: 3px;*/
+}
+.nav .btn2 img{
+	width: 4%;
+	height: 75%;
+	position: absolute;
+	right: 6%;
+}
+.nav .btn2{
+	width: 40%;
+	height: 43px;
+	border-radius: 10px;
+	background-image: url(../imgs/12.jpg);
+	font-size: 25px;
+	color: #887a68;
+}
+.section {
+  width: 80%;
+  margin: 15px auto;
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+  position: absolute;
+  top: 60px;
+  left: 10%;
+}
+.section .hang {
+  height: 46px;
+  line-height: 46px;
+  border-bottom: 1px solid gainsboro;
+}
+.section .hang .list {
+	width: 90%;
+  margin-top: 5px;
+  display: flex;
+}
+
+.section .hang .list .content {
+  flex: 1;
+  margin-left: 20px;
+  font-size: 24px;
+  color: gray;
+}
+.section .hang .list .right {
+  width: 20px;
+  margin-right: 10px;
+}
