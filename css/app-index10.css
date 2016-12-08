@@ -1,0 +1,39 @@
+
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.caidan{
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid gainsboro;
+  border-radius: 10px;
+  margin-top: 70px;
+}
+.caidan .xiazai {
+  height: 46px;
+  line-height: 46px;
+  border-bottom: 1px solid gainsboro;
+}
+.caidan .xiazai .list {
+  margin-top: 7px;
+  display: flex;
+}
+.content{
+	margin-left: 30px;
+	font-size: 31px;
+	
+}
+.caidan .xiazai .list .left {
+  width: 20px;
+  margin-left: 10px;
+  font-size: 18px;
+}
+.caidan .xiazai .list .content {
+  flex: 1;
+}
+.caidan .xiazai .list .right {
+  width: 20px;
+  margin-right: 10px;
+}
+            
